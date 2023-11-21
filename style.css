@@ -1,0 +1,31 @@
+html {
+background-image: url('https://www.textures4photoshop.com/tex/thumbs/green-chalkboard-texture-free-download-thumb38.jpg');
+background-size: 200% 200%;
+color: white;
+text-align: center;
+}
+.lol {
+background-image: url('https://www.textures4photoshop.com/tex/thumbs/green-chalkboard-texture-free-download-thumb38.jpg');
+background-size: 200% 200%;
+color: white;
+text-align: left;
+}
+body, h2, h3, details {
+    opacity: 75%;
+}
+button {
+    border:2px solid;
+    border-radius:50px;
+    font-size: 16px;
+    transition-duration: 0.3s;
+    box-shadow: 0px 2px 20px;
+    background-blend-mode: ;
+        }
+button:active {
+    box-shadow:0px 0px 0px;
+    opacity: 50%;
+}
+.nigga {
+    font-size:18px;
+    }
+    
